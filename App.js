@@ -90,7 +90,7 @@ export default class App extends React.Component {
 const styles = StyleSheet.create({
   
   title: {
-    fontSize: 32,
+    fontSize: 30,
     fontWeight: '600',
     color: 'black',
     padding: 5,
